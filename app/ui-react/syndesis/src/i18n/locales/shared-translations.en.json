@@ -100,15 +100,15 @@
       "FieldsMarkedWithStarRequired": "The fields marked with <span class=\"required-pf\">*</span> are required.",
       "AllFieldsRequired": "All fields are required.",
       "links": {
-        "contactus": "//syndesis.io/community/",
-        "userguide": "//access.redhat.com/documentation/en-us/red_hat_fuse/$t(project.version)/html-single/integrating_applications_with_fuse_online",
-        "connectorsguide": "//access.redhat.com/documentation/en-us/red_hat_fuse/$t(project.version)/html-single/connecting_fuse_online_to_applications_and_services/",
-        "tutorial": "//access.redhat.com/documentation/en-us/red_hat_fuse/$t(project.version)/html-single/fuse_online_sample_integration_tutorials/",
-        "oauth-access": "//access.redhat.com/documentation/en-us/red_hat_fuse/$t(project.version)/html-single/integrating_applications_with_fuse_online/#obtaining-authorization-to-access-applications"
+        "contactus": "//community.lingk.io/",
+        "userguide": "//help.lingk.io/en/categories/40-ipaas-direct",
+        "connectorsguide": "//help.lingk.io/en/categories/40-ipaas-direct",
+        "tutorial": "//help.lingk.io/en/categories/40-ipaas-direct",
+        "oauth-access": "//help.lingk.io/en/categories/40-ipaas-direct"
       },
       "project": {
-        "name": "Syndesis",
-        "version": "7.7"
+        "name": "Lingk Integration Cloud",
+        "version": "0.2"
       },
       "error": {
         "title": "Something is wrong",
@@ -139,7 +139,7 @@
       "syndesis011": "A connection associated with this integration has been modified. To incorporate the changes, please edit the integration.",
       "syndesis012": "The published integration has become obsolete and its recommended it should be republished.",
       "techPreview": "Technology Preview",
-      "techPreviewPopoverHtml": "<a href='https://access.redhat.com/support/offerings/techpreview' rel='nofollow' target='_blank' role='link'>Technology Previews</a> provide early access to features that are not yet supported. Feedback about these features is welcome. Send a message to <a href='mailto:fuse-online-tech-preview@redhat.com'>fuse-online-tech-preview@redhat.com</a>."
+      "techPreviewPopoverHtml": "<a href='https://lingk.io/techpreview' rel='nofollow' target='_blank' role='link'>Technology Previews</a> provide early access to features that are not yet supported. Feedback about these features is welcome. Send a message to <a href='mailto:support@lingk.io'>support@lingk.io</a>."
     }
   }
 }

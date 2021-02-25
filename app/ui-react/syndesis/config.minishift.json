@@ -7,8 +7,8 @@
   "consoleUrl": "https://192.168.64.2:8443/console",
   "project": "syndesis",
   "branding": {
-    "logoWhiteBg": "assets/images/syndesis_logo_full_darkbkg.svg",
-    "logoDarkBg": "assets/images/syndesis_logo_full_darkbkg.svg",
+    "logoWhiteBg": "assets/images/lingk-logo.png",
+    "logoDarkBg": "assets/images/lingk-logo.png",
     "productBuild": false,
     "appName": "Syndesis",
     "favicon32": "/favicon-32x32.png",

@@ -26,7 +26,7 @@ import redHatBrandLogo from '../shared/images/red-hat-brand-logo.png';
 import redHatFuseOnlineLogo from '../shared/images/red-hat-fuse-online-logo.png';
 import synAppleTouchIcon from '../shared/images/syn-apple-touch-icon.png';
 import syndesisLogoGraphic from '../shared/images/syndesis-logo-graphic.png';
-import syndesisLogo from '../shared/images/syndesis_logo_full_darkbkg.svg';
+import syndesisLogo from '../shared/images/lingk-logo.png';
 import rhAppleTouchIcon from '../shared/images/red-hat-apple-touch-icon.png'; // tslint:disable-line
 import redHatSafariPinnedTabIcon from '../shared/images/red-hat-safari-pinned-tab.svg';
 import synFavicon from '../shared/images/syn-favicon.ico';
