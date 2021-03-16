@@ -28,7 +28,7 @@ export const SupportPage: React.FunctionComponent = () => {
       <PageTitle title="Support" />
       <SimplePageHeader
         i18nTitle={'Support'}
-        i18nDescription={`To obtain support, download diagnostic information through this page and open a request on the <a href="https://access.redhat.com/support/cases/#/case/new">Red Hat Customer portal</a>. If you have any issues please see the support <a href="https://access.redhat.com/solutions/2112">instructions</a>.`}
+        i18nDescription={`To obtain support, download diagnostic information through this page and open a request on the <a href="http://community.lingk.io/">Lingk Customer portal</a>. If you have any issues please see the support <a href="http://community.lingk.io/">instructions</a>.`}
       />
 
       <PageSection variant="default">
