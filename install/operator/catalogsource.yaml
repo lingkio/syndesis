@@ -1,0 +1,13 @@
+apiVersion: operators.coreos.com/v1alpha1
+kind: CatalogSource
+metadata:
+  name: lingk
+  namespace: openshift-marketplace
+spec:
+  sourceType: grpc
+  image: docker.io/anandkane/syndesis-bundle-index:latest 
+  displayName: Lingk
+  publisher: Lingk 
+  updateStrategy:
+    registryPoll: 
+      interval: 30m
